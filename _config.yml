@@ -1,0 +1,14 @@
+layout_spectrum: 0.7785833110101521
+typography_spectrum: 0.9124896742869169
+color:
+  brandStrength: 0.1490080477669835
+  lightness: 0.7584666407201439
+  saturation: 0.9552400016691536
+  rhythmicContrast: 0.01840739161707461
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: cxcorps
